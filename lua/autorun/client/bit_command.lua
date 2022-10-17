@@ -45,7 +45,7 @@ function BIT.command(p, cmd, args, argStr)
     cmd = string.sub(cmd, 5, -1)
     
     if BIT.cmds[cmd] then
-        print("\t " ..BIT.func[cmd](args))
+        print("\t" ..BIT.func[cmd](args))
     end
 end
 
