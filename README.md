@@ -1,7 +1,6 @@
 # BitCommand
 Play with the bitwise functions in commands
 
-### Cvars Server-side
 | Command     | Description   | 
 | ---------   | ------------- |
 | bit_arshift | Returns the arithmetically shifted value.           |
